@@ -1,1 +1,1 @@
-web python2.7
+worker: python2.7 
