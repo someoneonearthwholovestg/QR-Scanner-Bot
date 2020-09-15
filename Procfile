@@ -1,1 +1,1 @@
-worker: python2.7 qr_scanner.py
+worker: python3 qr_scanner.py
