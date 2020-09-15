@@ -16,7 +16,7 @@ from os.path import isfile, join
 from io import BytesIO
 from PIL import Image
 
-TOKEN = "TOKEN_FROM_@BOTFATHER"
+TOKEN = "1320693312:AAFVMqOTeE9yrrM4fFGVcu3Z18oHCzJKWdw"
 
 def decode(bot, update):
 	chat_id = update.message.chat_id
